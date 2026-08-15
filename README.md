@@ -1,4 +1,7 @@
 # IE Career Summit 2026
+## Canlı Demo
+
+[Projeyi Canlı Görüntüle](https://ayseiremunal-stack.github.io/ie-career-summit/)
 
 IE Career Summit 2026, HTML, CSS ve JavaScript kullanılarak geliştirilmiş responsive bir front-end portfolyo projesidir.
 
